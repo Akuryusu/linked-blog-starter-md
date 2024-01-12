@@ -5,7 +5,9 @@ A website for the workers of Technical Components Bulgaria.
 It will represent a collection of detailed guides on how to assemble different circuits (main focus) and potentially other technical components.
 
 ### Main features
-- [ ] A library page with guides - catalogue and search bar ⏫ 
+- [ ] Main library page with guides ⏫ 
+
+- [ ] A search feature to allow workers to quickly locate specific circuits or tutorial topics without navigating through the entire library.
 
 - [ ] A page for each circuit. Will consist of a presentation on how to assemble and pop ups with information about the circuit and each of its components on click
 
