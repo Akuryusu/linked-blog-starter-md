@@ -9,9 +9,10 @@ It will represent a collection of detailed guides on how to assemble different c
 
 - [ ] A search feature to allow workers to quickly locate specific circuits or tutorial topics without navigating through the entire library.
 
-- [ ] A page for each circuit. Will consist of a presentation **and a video** on how to assemble and pop ups with information about the circuit and each of its components on click
-
-- [ ] 
+- [ ] A page for each circuit.
+ It will consist of: 
+ - A presentation
+ - A video on how to assemble and pop ups with information about the circuit and each of its components on click
 
 - [ ] 3D rotatable model for each component ( https://chat.openai.com/share/5a9d6089-82ef-4785-adf1-4f6350a8ad2b )
 
