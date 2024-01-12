@@ -2,7 +2,7 @@
 
 A website for the workers of Technical Components Bulgaria.
 
-It will represent a guide on how to assemble circuits (main focus) and other technical components.
+It will represent a guide on how to assemble circuits (main focus) and potentially other technical components.
 
 ### Main features
 - [ ] A library with guides - catalogue and search bar
