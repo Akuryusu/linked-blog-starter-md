@@ -10,7 +10,6 @@ It will represent a collection of detailed guides on how to assemble different c
 - [ ] A page for each circuit. Will consist of a presentation on how to assemble and pop ups with information about the circuit and each of its components on click
 
 - [ ] 3D rotatable model for each component 
-- [ ] 
 
 
 ### Notes
