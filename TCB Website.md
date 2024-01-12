@@ -1,3 +1,3 @@
 # Planning
-
-
+## Main features
+- [ ] 
