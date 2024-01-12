@@ -21,3 +21,7 @@ It will represent a collection of detailed guides on how to assemble different c
 ### Notes
 1. Break down the assembly process into clear, step-by-step instructions. Use a logical sequence to guide users through the entire process.
 2. Ensure the site is optimized for mobile devices, as workers might need access to the information on the go.
+
+### Resources
+https://www.codewithfaraz.com/content/131/fruit-shop-landing-page-with-html-and-css
+
