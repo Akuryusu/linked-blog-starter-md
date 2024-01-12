@@ -11,4 +11,8 @@ It will represent a collection of detailed guides on how to assemble different c
 
 - [ ] 3D rotatable model for each component 
 - [ ] 
-- [ ] 
+
+
+### Notes
+1. Break down the assembly process into clear, step-by-step instructions. Use a logical sequence to guide users through the entire process.
+2. 
