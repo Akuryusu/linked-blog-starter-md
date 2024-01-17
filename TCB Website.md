@@ -17,7 +17,7 @@ It will represent a collection of detailed guides on how to assemble different c
 
 - [ ] 3D rotatable model for each component ( https://chat.openai.com/share/5a9d6089-82ef-4785-adf1-4f6350a8ad2b )
 
-
+- [ ] 
 ### Notes
 1. Break down the assembly process into clear, step-by-step instructions. Use a logical sequence to guide users through the entire process.
 2. Ensure the site is optimized for mobile devices, as workers might need access to the information on the go.
