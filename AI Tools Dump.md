@@ -9,6 +9,7 @@ https://magai.co/
 https://theresanaiforthat.com/
 
 https://www.tutorai.me/
+
 https://godmode.space/
 
 https://www.perplexity.ai/
