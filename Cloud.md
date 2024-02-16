@@ -1,4 +1,4 @@
 ---
 _links: []
-sticker: ui//mk-ui-home
+sticker: lucide//cloud
 ---
