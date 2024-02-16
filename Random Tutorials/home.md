@@ -12,7 +12,7 @@ Publish your Obsidian Notes with a highly customizable Next.JS blog starter temp
 ![[how-linked-blog-starter-works]]
 
 ## Getting Started
-### [[home|Demo]]
+### [[Cloud/Random Tutorials/home|Demo]]
 Additionally, you can deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
 
 ### [[publish-your-obsidian-notes-with-linked-blog-starter|Publish your Obsidian Vault]]
