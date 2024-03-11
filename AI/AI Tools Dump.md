@@ -1,3 +1,6 @@
+---
+sticker: lucide//file
+---
 https://www.reddit.com/r/ChatGPT/comments/1765l5w/whats_the_coolest_ai_tool_you_have_come_across/
 
 https://www.helperai.info/
