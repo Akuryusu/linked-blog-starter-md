@@ -27,3 +27,5 @@ Biting Solo
 Chipsound
 
 Fmod Loop
+
+Tekno Stab
