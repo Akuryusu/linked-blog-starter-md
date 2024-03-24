@@ -17,3 +17,11 @@ Cars Sync
 Bela Vocce
 
 House in the Forest
+
+Beast Sync
+
+Anthem
+
+Biting Solo
+
+Chipsound
