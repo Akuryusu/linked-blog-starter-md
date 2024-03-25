@@ -29,3 +29,5 @@ Chipsound
 Fmod Loop
 
 Tekno Stab
+
+Bass Trip
