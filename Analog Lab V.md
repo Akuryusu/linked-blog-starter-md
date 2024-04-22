@@ -35,3 +35,6 @@ Bass Trip
 Doomsday Sub
 
 Fluid Bass
+
+Chariot Horn
+
