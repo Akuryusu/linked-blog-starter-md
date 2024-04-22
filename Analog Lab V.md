@@ -39,4 +39,8 @@ Fluid Bass
 Chariot Horn (FLEX)
 
 Met before our time
-(customizable and combine)
+(customizable and combine
+
+Compressor
+
+Conversation
