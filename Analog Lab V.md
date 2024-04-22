@@ -36,5 +36,5 @@ Doomsday Sub
 
 Fluid Bass
 
-Chariot Horn
+Chariot Horn (FLEX)
 
