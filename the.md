@@ -6,4 +6,4 @@ Money management is a bigger issue. The majority of schools don't have classes a
 
 Every subject in school is useful to us because they help with our ability to learn. It is easier to learn new information if our brain connects it to already existing knowledge. Every subject strengthens our ability to connect new information with existing knowledge. For example, studying history can help us with understanding literature's context.
 
-To sum up, I have mixed feelings on the topic. There are skills, like finances, aren't taught but school teaches us a lot of very useful skills, effective learning being the most useful skill because we learn throughout our whole life.
+Overall, I have mixed feelings on the topic. Some important skills, like finances, aren't taught but school teaches us a lot of essential skills, effective learning being the most useful one because we learn throughout our whole life.
