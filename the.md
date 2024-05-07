@@ -6,6 +6,6 @@ Academic knowledge is doing a lot more for us than what we think but a lot stude
 
 Very important problem is the lack of money management taught in schools. The majority of schools don't have classes specifically have classes to teach us important financial skills like spending, saving and investing. We are let to learn on our terms after we finish school which might be difficult for some people.
 
-Every subject in school is beneficial to us because they enhance our ability to learn. It is easier to learn new information if our brain connects it to already existing knowledge. Subjects that might seem useless expand our knowledge with new concepts and ideas making with new information. For example, knowledge in geography can help us with memorizing 
+Every subject in school is beneficial to us because they enhance our ability to learn. It is easier to learn new information if our brain connects it to already existing knowledge. Subjects that might seem useless expand our knowledge with new concepts and ideas making with new information. For example, studying history can help us with understanding literature produced during different historic eras.
 
-To sum up,
+To sum up, I have mixed feelings on the topic. There are essential skills that schools don't teach us and we are left to learn them on our own
