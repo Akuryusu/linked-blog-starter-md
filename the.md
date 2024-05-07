@@ -8,4 +8,4 @@ Very important problem is the lack of money management taught in schools. The ma
 
 Every subject in school is beneficial to us because they enhance our ability to learn. It is easier to learn new information if our brain connects it to already existing knowledge. Subjects that might seem useless expand our knowledge with new concepts and ideas making with new information. For example, studying history can help us with understanding literature produced during different historic eras.
 
-To sum up, I have mixed feelings on the topic. There are essential skills that schools don't teach us and we are left to learn them on our own
+To sum up, I have mixed feelings on the topic. There are essential skills, like finances, that schools don't teach us and we are left to learn them on our own but at the same time school teaches us to a lot of very useful skills, effective learning being the most useful skill because we learn throughout our whole life.
